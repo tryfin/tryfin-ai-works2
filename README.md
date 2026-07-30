@@ -14,7 +14,7 @@ Worksセクションは以下の2グループに分けて掲載しています�
 
 ## 公開URL
 
-https://tryfin.github.io/tryfin-ai-works/
+https://tryfin.github.io/tryfin-ai-works2/
 
 ## 構成
 
